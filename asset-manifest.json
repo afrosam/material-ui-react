@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/material-ui-react/static/js/main.d03e9396.js",
+    "static/js/787.d74144a4.chunk.js": "/material-ui-react/static/js/787.d74144a4.chunk.js",
+    "index.html": "/material-ui-react/index.html",
+    "main.d03e9396.js.map": "/material-ui-react/static/js/main.d03e9396.js.map",
+    "787.d74144a4.chunk.js.map": "/material-ui-react/static/js/787.d74144a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d03e9396.js"
+  ]
+}
